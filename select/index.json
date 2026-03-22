@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "フリーズ",
+  "base_artist": "KAT-TUN",
+  "createdAt": "2026-03-22T03:28:14.724972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フリーズ",
+      "artist": "Cellar Darling",
+      "has_synced": true,
+      "path": "select/01_フリーズ_Cellar_Darling.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ",
+      "artist": "逢坂大河(CV: 釘宮理恵)・櫛枝実乃梨(CV: 堀江由衣)・川嶋亜美(CV: 喜多村英梨)",
+      "has_synced": true,
+      "path": "select/02_プリーズ_フリーズ_逢坂大河(CV__釘宮理恵)・櫛枝実乃梨(CV__堀江由衣)・川嶋亜美(CV__喜多村英梨).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨)",
+      "has_synced": true,
+      "path": "select/03_プリーズ_フリーズ_逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ(off vocal ver.)",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨)",
+      "has_synced": true,
+      "path": "select/04_プリーズ_フリーズ(off_vocal_ver.)_逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プリーズ　フリーズ",
+      "artist": "逢坂大河(CV:釘宮理恵),櫛枝実乃梨(CV:堀江由衣),川嶋亜美(CV:喜多村英梨)",
+      "has_synced": false,
+      "path": "select/05_プリーズ_フリーズ_逢坂大河(CV_釘宮理恵),櫛枝実乃梨(CV_堀江由衣),川嶋亜美(CV_喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ",
+      "artist": "櫛枝実乃梨",
+      "has_synced": true,
+      "path": "select/06_プリーズ_フリーズ_櫛枝実乃梨.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ (off vocal ver.)",
+      "artist": "櫛枝実乃梨",
+      "has_synced": true,
+      "path": "select/07_プリーズ_フリーズ_(off_vocal_ver.)_櫛枝実乃梨.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美(CV:釘宮理恵・堀江由衣・喜多村英梨)",
+      "has_synced": true,
+      "path": "select/08_プリーズ_フリーズ_逢坂大河・櫛枝実乃梨・川嶋亜美(CV_釘宮理恵・堀江由衣・喜多村英梨).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フリーズ",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_01_フリーズ_KAT-TUN.txt"
+    }
+  ]
+}
