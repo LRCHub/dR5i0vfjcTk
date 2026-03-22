@@ -1,0 +1,115 @@
+# KAT-TUN – フリーズ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+We are the K.A.T.T.U.N
+ヤバメなタッグ
+ヤバメなThug
+ヤバメなRap
+行くゾ Let's go!!!!!
+どう調子いいか Party
+さあご存知 Shake your body
+派手なライブさ 叩け CLAP CLAP
+まぶしすぎる
+オレらに目がくらむはず
+Can you listen to
+the beat and shout OH OH
+Come on! Dance to
+the rhythm and SAY YEAH
+Can you listen to
+the beat and shout OH OH
+Do you wanna have fun?
+Show me your big smile.
+Can you listen to
+the beat and shout OH OH
+Come on! Dance to
+the rhythm and SAY YEAH
+Can you listen to
+the beat and shout OH OH
+Do you wanna have fun?
+Show me your big smile.
+まずは近づき楽にオレらに
+体をあずけりゃ盛り上がる
+悪けりゃ強引にかっさらってやる
+二度と離れない 朝までは
+Can you listen to
+the beat and shout OH OH
+Come on! Dance to
+the rhythm and SAY YEAH
+Can you listen to
+the beat and shout OH OH
+Do you wanna have fun?
+Show me your big smile.
+Can you listen to
+the beat and shout OH OH
+Come on! Dance to
+the rhythm and SAY YEAH
+Can you listen to
+the beat and shout OH OH
+Do you wanna have fun?
+Show me your big smile.
+こいつぁマジでかなり効く
+街で会ったら仲間に
+「What's Really Good!?」
+とぼけてる間におっぱじまるさ
+さぁさ Everybody 豪華にやるか!!
+こいつぁマジでかなり効く
+街で会ったら仲間に
+「What's Really Good!?」
+とぼけてる間におっぱじまるさ
+さぁさ Everybody 豪華にやるか!!
+We're KATTUNだ
+We're We're KATTUNだ
+忘れるなこの文字に"WHAT?"は
+付くはずがない つーか胸ぐら
+つかむテメエでレペゼン まずは
+タフなスキル 磨きかける キス
+指くわえ眺めてる Boyフリーズ
+K A T T U N Ha!
+ベイベー じりじり揺れてきな!
+Can you listen to
+the beat and shout OH OH
+Come on! Dance to
+the rhythm and SAY YEAH
+Can you listen to
+the beat and shout OH OH
+Do you wanna have fun?
+Show me your big smile.
+Can you listen to
+the beat and shout OH OH
+Come on! Dance to
+the rhythm and SAY YEAH
+Can you listen to
+the beat and shout OH OH
+Do you wanna have fun?
+Show me your big smile.
+こいつぁマジでかなり効く
+街で会ったら仲間に
+「What's Really Good!?」
+とぼけてる間におっぱじまるさ
+さぁさ Everybody 豪華にやるか!!
+こいつぁマジでかなり効く
+街で会ったら仲間に
+「What's Really Good!?」
+とぼけてる間におっぱじまるさ
+さぁさ Everybody 豪華にやるか!!
+Can you listen to
+the beat and shout OH OH
+Come on! Dance to
+the rhythm and SAY YEAH
+Can you listen to
+the beat and shout OH OH
+Do you wanna have fun?
+Show me your big smile.
+Can you listen to
+the beat and shout OH OH
+Come on! Dance to
+the rhythm and SAY YEAH
+Can you listen to
+the beat and shout OH OH
+Do you wanna have fun?
+Show me your big smile.
+Can you listen to the beat and
+shout OH OH
+```
